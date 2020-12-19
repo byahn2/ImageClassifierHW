@@ -10,20 +10,35 @@ to play with the parameters, but I’ve listed them below along with the accurac
 images as well as the whole.
 
 Training arguments for the classifier:
+
 ● Batch size: 4
+
 ● Learning rate: 0.001
+
 ● Optimization method: Stochastic Gradient descent
+
 ● Epoch number: 8
 
 Classification testing accuracy:
+
 ● Overall: 66%
+
 ● Plane: 66%
+
 ● Car: 79%
+
 ● Bird: 44%
+
 ● Cat: 56%
+
 ● Deer: 67%
+
 ● Dog: 47%
+
 ● Frog: 76%
+
 ● Horse: 68%
+
 ● Ship: 78%
+
 ● Truck: 75%
